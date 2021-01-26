@@ -1,0 +1,1 @@
+# springboot-generate-entity-from-database-tables
