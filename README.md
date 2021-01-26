@@ -21,4 +21,3 @@
   ### Update Database tables form Entity (on start server will update the tablesfields)
  - spring.jpa.hibernate.ddl-auto=update
  
- 
